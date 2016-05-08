@@ -1,5 +1,5 @@
 # snub
 
-This is teh subedi branch.
+This is the snubedi branch.
 
 (c) snub audio
